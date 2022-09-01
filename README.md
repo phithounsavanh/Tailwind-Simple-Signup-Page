@@ -25,6 +25,7 @@ npm run dev
 
 ### Resources Link
 
+Watch a video tutorial here - [https://youtu.be/TORSyJN9sOg](https://youtu.be/TORSyJN9sOg)
+
 Download the Figma file - [https://drive.google.com/file/d/1Ou1IWvxVvKw5FOt9-n2rj7JiEMvaeRvr/view?usp=sharing](https://drive.google.com/file/d/1Ou1IWvxVvKw5FOt9-n2rj7JiEMvaeRvr/view?usp=sharing)
 
-Watch a video tutorial here - [https://youtu.be/TORSyJN9sOg](https://youtu.be/TORSyJN9sOg)
